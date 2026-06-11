@@ -35,6 +35,7 @@ die() {
 usage() {
     cat <<EOF
 Ubuntu SillyTavern installer
+凌宇和苏苏子制作OVO
 
 Usage:
   bash install_ubuntu.sh             Open menu
@@ -256,6 +257,7 @@ one_click_install() {
 
     echo "====================================================="
     echo "        Ubuntu SillyTavern one-click install"
+    echo "        凌宇和苏苏子制作OVO"
     echo "====================================================="
     echo
 
@@ -277,6 +279,7 @@ show_menu() {
     clear || true
     echo "====================================================="
     echo "        SillyTavern Ubuntu Installer"
+    echo "        凌宇和苏苏子制作OVO"
     echo "====================================================="
     echo "Install path: $INSTALL_DIR"
     echo "Branch:       $BRANCH"
