@@ -4,6 +4,8 @@
 
 Windows 版 `install.bat` 保持不变。Ubuntu 版不安装 Bun，按官方 Linux 启动方式使用 Node.js/npm。
 
+菜单署名：凌宇和苏苏子制作OVO。
+
 ## 发布后一行命令
 
 菜单模式：
